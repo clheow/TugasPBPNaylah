@@ -1,5 +1,5 @@
 <?php
-echo "<h1>Halo, Server PHP Berhasil Dijalankan!</h1>";
+echo "<h1>Helloww, server ini udah bisa dijalankan</h1>";
 $host = "localhost";
 $user = "root";
 $pass = "";
