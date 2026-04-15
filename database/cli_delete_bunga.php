@@ -41,7 +41,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <input type="number" name="id" placeholder="Masukkan ID bunga" required>
             <button type="submit">Hapus</button>
         </form>
-        <a href="webview/index.php">← Kembali ke daftar</a>
+        <a href="../database/webview/index.php">← Kembali ke daftar</a>
     </div>
 </body>
 </html>

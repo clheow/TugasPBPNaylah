@@ -31,7 +31,11 @@ $result = $conn->query("SELECT * FROM bunga ORDER BY created_at DESC");
         </tr>
         <?php endwhile; ?>
     </table>
-    <a href="../cli_create_user.php">+ Tambah Bunga</a>
+    <a href="../cli_create_bunga.php">+ Tambah Bunga</a>
+</body>
+</html>
+    </table>
+    <a href="../cli_delete_bunga.php">+ Hapus Bunga</a>
 </body>
 </html>
 <?php $conn->close(); ?>
