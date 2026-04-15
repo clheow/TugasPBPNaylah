@@ -4,4 +4,5 @@ Tugas ini berisi tiga tugas pemrograman PHP yang dijalankan menggunakan XAMPP de
 Cara Menjalankan:
 1. Memastikan XAMPP sudah terinstall dan Apache + MySQL aktif.
 2. Menyalin file PHP ke folder C:/xampp/htdocs/tugaspbp.
-3. Mengakses web melalui browser: http://localhost/tugaspbp/database/webview/index.php
+3. Menjalankan server lewat browser: http:/localhost/tugaspbp/tugas5.php
+4. Mengakses web melalui browser: http://localhost/tugaspbp/database/webview/index.php
