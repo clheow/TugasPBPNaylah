@@ -1,0 +1,10 @@
+-- DDL untuk tabel bunga
+CREATE DATABASE IF NOT EXISTS tugas345;
+USE tugas345;
+
+CREATE TABLE IF NOT EXISTS bunga (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nama_bunga VARCHAR(100) NOT NULL,
+    tanggal_tanam DATE,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
