@@ -1,5 +1,5 @@
-Tugas PHP – Tugas 3, 4(database), dan 5
-Tugas proyek berisi tiga tugas pemrograman PHP yang dijalankan menggunakan XAMPP dengan cara menyalin file ke folder htdocs.
+Tugas PHP – Tugas 3, 4(database), dan 5.
+Tugas ini berisi tiga tugas pemrograman PHP yang dijalankan menggunakan XAMPP dengan cara menyalin file ke folder htdocs.
 
 Cara Menjalankan:
 1. Memastikan XAMPP sudah terinstall dan Apache + MySQL aktif.
